@@ -1,6 +1,6 @@
-# Heavy Java Projects Collection
+# Java Projects Collection For Beginners
 
-A comprehensive collection of Java programming projects covering various computer science concepts including data structures, algorithms, game theory, cryptography, GUI applications, and parallel computing.
+I compiled a collection of Java programming projects covering various computer science concepts from my intro to Java course, including data structures, algorithms, game theory, cryptography, GUI applications, and parallel computing.
 
 ## 📁 Project Structure
 
@@ -15,7 +15,7 @@ A comprehensive collection of Java programming projects covering various compute
   - Handles negative denominators properly
 
 #### **02-NearestNeighbor-2D** - 2D Point Nearest Neighbor Finder
-- **Purpose**: Finds the closest point in a collection to a given 2D point
+- **Purpose**: Find the closest point in a collection to a given 2D point
 - **Features**:
   - Euclidean distance calculations
   - Dynamic point addition
@@ -25,7 +25,7 @@ A comprehensive collection of Java programming projects covering various compute
 - **Purpose**: Solves the line coloring game using game theory
 - **Features**:
   - Determines winning moves for players
-  - Implements minimax algorithm
+  - Implements the minimax algorithm
   - Validates move legality and win conditions
 
 #### **04-Joke-Management-System** - Joke Management System
@@ -63,7 +63,7 @@ A comprehensive collection of Java programming projects covering various compute
 ### 🏠 Homework Projects (08-15)
 
 #### **08-Catalan-Numbers-Game-Theory** - Catalan Numbers & Game Theory
-- **Catalan.java**: Calculates Catalan numbers using recursive formula
+- **Catalan.java**: Calculates Catalan numbers using the recursive formula
 - **ToadsAndFrogsSolver.java**: Solves the Toads and Frogs puzzle game
 - **PigRollSequences.java**: Calculates possible dice roll sequences in Pig game
 
@@ -233,5 +233,3 @@ Several projects provide interactive experiences:
 Joseph Sackitey
 
 ---
-
-*This collection represents a comprehensive journey through advanced Java programming concepts, from basic data structures to complex algorithmic implementations and interactive applications.*
